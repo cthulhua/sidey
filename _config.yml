@@ -1,17 +1,17 @@
-site: Sidey
-url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+site: cthulhua
+url: cthulhua.com
+title: cthulhua
+description: A place for my ideas.
 twitter:
-  username: #yourusername
+  username: cthulhua
   card: summary
-  creator: #yourusername
+  creator: cthulhua
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: cthulhua
+  name: Danny Hua
   avatar:
-  email: #youremail
-  url: #yoururl
+  email: danny.hua@hey.com
+  url: cthulhua.com
 permalink: pretty
 
 baseurl: ""
